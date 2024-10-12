@@ -1,2 +1,2 @@
 # Unbound-Prox-hole
-Unbound recursive pinhole setup in a ProxMox CT
+Unbound recursive pihole setup in a ProxMox CT
